@@ -2,10 +2,9 @@
 
 A [pre-commit](https://pre-commit.com/) hook for [**devmoji**](https://github.com/folke/devmoji) — automatically decorate your commit messages with emojis ✨.
 
-
 ## Installation
 
-```
+```yaml
 # .pre-commit-config.yaml
 
 repos:
@@ -17,10 +16,9 @@ repos:
 
 Then run:
 
-```
+```bash
 pre-commit install --hook-type prepare-commit-msg
 ```
-
 
 ## License
 
