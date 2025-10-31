@@ -1,0 +1,9 @@
+{
+  "name": "pre-commit-devmoji",
+  "version": "1.0.0",
+  "description": "Pre-commit hook wrapper for devmoji",
+  "license": "MIT",
+  "dependencies": {
+    "devmoji": "^2.3.0"
+  }
+}
