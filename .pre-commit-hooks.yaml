@@ -1,7 +1,7 @@
 - id: devmoji
   name: devmoji
   description: Check or decorate commit messages with emojis.
-  entry: devmoji --commit
+  entry: devmoji -e --lint
   language: node
   pass_filenames: false
   stages: [prepare-commit-msg]
