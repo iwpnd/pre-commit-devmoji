@@ -4,4 +4,4 @@
   entry: devmoji --check
   language: node
   pass_filenames: false
-  stages: [commit-msg]
+  stages: [prepare-commit-msg]
