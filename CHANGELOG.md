@@ -1,3 +1,9 @@
+## [0.0.6](https://github.com/iwpnd/pre-commit-devmoji/compare/v0.0.5...v0.0.6) (2025-12-01)
+
+### 🧹 Miscellaneous
+
+* **deps:** 🔗 update devmoji ([b988af8](https://github.com/iwpnd/pre-commit-devmoji/commit/b988af82669df3e0dcc49b02f74c62b1e5b41da8))
+
 ## [0.0.5](https://github.com/iwpnd/pre-commit-devmoji/compare/v0.0.4...v0.0.5) (2025-10-31)
 
 ### 🐛 Bug Fixes
