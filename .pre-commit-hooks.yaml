@@ -3,5 +3,7 @@
   description: Check or decorate commit messages with emojis.
   entry: devmoji -e --lint
   language: node
+  additional_dependencies:
+    - devmoji@2.3.0
   pass_filenames: false
   stages: [prepare-commit-msg]
