@@ -1,7 +1,7 @@
 - id: devmoji
   name: devmoji
   description: Check or decorate commit messages with emojis.
-  entry: devmoji -e --lint
+  entry: devmoji -e
   language: node
   additional_dependencies:
     - devmoji@2.3.0
