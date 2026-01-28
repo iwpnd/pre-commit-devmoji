@@ -1,3 +1,9 @@
+## [0.1.0](https://github.com/iwpnd/pre-commit-devmoji/compare/v0.0.6...v0.1.0) (2026-01-28)
+
+### ✨ Features
+
+* do not lint in hook ([9b28d72](https://github.com/iwpnd/pre-commit-devmoji/commit/9b28d72360e618756fe494c4478a7533d4e723cf))
+
 ## [0.0.6](https://github.com/iwpnd/pre-commit-devmoji/compare/v0.0.5...v0.0.6) (2025-12-01)
 
 ### 🧹 Miscellaneous
