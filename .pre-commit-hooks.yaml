@@ -1,9 +1,9 @@
 - id: devmoji
   name: devmoji
-  description: Check or decorate commit messages with emojis.
+  description: Decorate commit messages with emojis.
   entry: devmoji -e
   language: node
   additional_dependencies:
-    - devmoji@2.3.0
+    - devmoji@2.4.1
   pass_filenames: false
   stages: [prepare-commit-msg]
