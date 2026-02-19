@@ -4,6 +4,6 @@
   entry: devmoji -e
   language: node
   additional_dependencies:
-    - devmoji@2.4.1
+    - devmoji@2.3.0
   pass_filenames: false
   stages: [prepare-commit-msg]
