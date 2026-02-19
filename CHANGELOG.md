@@ -1,3 +1,9 @@
+## [0.1.2](https://github.com/iwpnd/pre-commit-devmoji/compare/v0.1.1...v0.1.2) (2026-02-19)
+
+### 🐛 Bug Fixes
+
+* revert upgrade to 2.4.1 ([411c355](https://github.com/iwpnd/pre-commit-devmoji/commit/411c355439e350bc3caf7d1cb61c779494cc3148))
+
 ## [0.1.1](https://github.com/iwpnd/pre-commit-devmoji/compare/v0.1.0...v0.1.1) (2026-02-12)
 
 ### 🧹 Miscellaneous
